@@ -157,9 +157,9 @@ clearAniamtion(){
         /* border: 2px solid black; */
         position: relative;
         overflow: hidden;
-        -webkit-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.5);
-        -moz-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.5);
-        box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.5);
+        -webkit-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.6);
+        -moz-box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.6);
+        box-shadow: 1px 0px 5px 0px rgba(0,0,0,0.6);
         margin: 5px;
     }
     .container:hover{
